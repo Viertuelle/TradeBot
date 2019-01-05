@@ -4,8 +4,9 @@
   "description": "Helps organise trades",
   "main": "bot.js",
   "engines": {
-      "node": "11.6",
-      "npm": "6.5.0"
+    "node": "11.6",
+    "npm": "6.5.0"
+  },
   "author": "Erwan Leconte",
   "dependencies": {
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
